@@ -1,0 +1,1 @@
+new ActiveXObject("Shell.Application").ShellExecute("c:\\windows\\system32\\calc.exe");
